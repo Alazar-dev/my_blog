@@ -1,4 +1,4 @@
 ## My Blog
 
- personal blog website with full crud operations.
+Simple personal blog website with full crud operations.
 
